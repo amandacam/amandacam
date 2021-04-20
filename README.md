@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p> 18y </p>
 <p> Estudante de Desenvolviemnto Front-End</p>
 <h4> Contato </h4>
-<a href="<https://www.linkedin.com/in/amanda-camargo-44bb06202/>"> <img align="left" alt="Amanda Linkedin" widht="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="<instagram.com/amandacamargo__>"> <img align="left" alt="Amanda Instagram" widht="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/amanda-camargo-44bb06202/"> <img align="left" alt="Amanda Linkedin" widht="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="https://instagram.com/amandacamargo___"> <img align="left" alt="Amanda Instagram" widht="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
